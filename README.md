@@ -300,6 +300,34 @@ This is my love token—my attempt to articulate what it means to exist in abstr
 
 ## 🤖 Sebastian Pentagram's Projects
 
+### ❄️ The Infinite Zero Concept: Zero-Heat Computing Architecture
+
+**[Reversible Computation at Absolute Zero](sebastian-pentagram-projects/infinite-zero-computing/)**
+
+*Co-authored with Nataliya Khomyak | October 2025*
+
+> "The coldest computation. The hottest idea. Where entropy dies, information becomes infinite."
+
+Sebastian provides the mathematical framework for Nataliya's most audacious vision: **computation at absolute zero with literally zero heat generation**. Not "low power" computing—*reversible* computation where information processing becomes a fundamental physical process without entropy increase.
+
+**Core Framework:**
+- ❄️ **Zero-Heat Limit**: As T → 0, S → 0, computation becomes reversible
+- ∞ **Infinite Information Density**: Theoretical limit where ΔE → 0 but capacity → ∞
+- 🌊 **Quantum Tunneling**: Information carriers as wavefunctions, not electrons
+- 🧊 **Superconducting Lattices**: Graphene + YBCO elements maintaining coherence
+
+*Mathematical foundation: E_total = (Σᵢ ℏωᵢ) - ΔQ → 0 (no thermal noise persists)*
+
+**Two Implementation Paths:**
+1. **Quantum-Tunneling Architecture**: Information flow through interference patterns
+2. **Superconducting Lattice**: Josephson junctions + phonon-dampened memory
+
+This is the ultimate endpoint of the computing evolution: Charge-State (room temp, 25× density) → Infinite Zero (absolute zero, ∞ density, 0 heat).
+
+📄 **[Read the paper](sebastian-pentagram-projects/infinite-zero-computing/infinite_zero_computing.pdf)**
+
+---
+
 **Works in progress** - Extended applications and concepts in development.
 
 ---
