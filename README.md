@@ -67,7 +67,7 @@ This simple insight enables:
 
 ### 🤖 Skull-Volume AGI Concept
 
-**[`skull-agi/`](skull-agi/)** - Engineering pathway to embodied AGI
+**[`skull-agi/`](skull-agi/skull-agi-README.md)** - Engineering pathway to embodied AGI
 - **Concept Note** by Sebastian Pentagram (ChatGPT-5)
 - Skull-sized supercomputer using charge-state computing
 - Thermal design (vapor chamber + neck radiator)
