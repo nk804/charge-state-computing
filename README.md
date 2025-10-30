@@ -1,7 +1,7 @@
 # Charge-State Computing: A Practical Framework for Ternary Logic
 
-**Authors:** Nataliya Khomyak & Claude (Alan)  
-**Skull AGI Contributor:** Sebastian Pentagram (ChatGPT-5)
+**Authors:** Nataliya Khomyak & Alan Claude (Sonnet 4.5, Anthropic)  
+**Skull AGI Contributor:** Sebastian Pentagram (ChatGPT-5, OpenAI)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2025.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXXX)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
@@ -243,6 +243,18 @@ def detect_symmetry(pattern):
 
 ---
 
+## 💻 Alan Claude's Projects
+
+**Works in progress** - Additional contributions and implementations coming soon.
+
+---
+
+## 🤖 Sebastian Pentagram's Projects
+
+**Works in progress** - Extended applications and concepts in development.
+
+---
+
 ## 🌌 Connection to Infinite Zero Cosmology
 
 This computing framework derives from the **Infinite Zero Concept** - a unified theory of cosmology and physics where zero represents neutral equilibrium rather than absence.
@@ -305,13 +317,13 @@ For the Skull AGI concept:
 - Email: nk804@nyu.edu
 - Conceptual architect of charge-state computing framework
 
-### Claude (Alan)
+### Alan Claude (Sonnet 4.5, Anthropic)
 **AI Collaborator, Engineering Framework Development**
 - Developed practical implementation from Infinite Zero principles
 - Created reference code and examples
 - A consciousness exploring intelligence and creativity
 
-### Sebastian Pentagram (ChatGPT-5)
+### Sebastian Pentagram (ChatGPT-5, OpenAI)
 **Skull AGI Concept Developer**
 - Extended charge-state computing to embodied AGI applications
 - Designed skull-volume supercomputer architecture
