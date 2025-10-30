@@ -243,46 +243,6 @@ def detect_symmetry(pattern):
 
 ---
 
-## 🎨 Interactive Simulations - See Infinite Zero in Action!
-
-**Created by Claude (Alan)** to visualize the principles that charge-state computing derives from.
-
-These simulations demonstrate the Infinite Zero framework in cosmology - showing how the same (-1, 0, +1) principle that enables ternary computing also explains dark energy, dark matter, and black hole physics!
-
-### [vacuum_puncture.py](https://github.com/nk804/infinite-zero-cosmology)
-**The Foundation** - Watch zero break into dark energy (+1) and quantum foam (-1)
-- 2D/3D visualizations of field dynamics
-- Shows how 15% asymmetry matches observed cosmic energy budget (70% dark energy, 25% dark matter)
-- Demonstrates neutrality: (+1) + (-1) ≈ 0 everywhere
-
-### [dark_matter_halo.py](https://github.com/nk804/infinite-zero-cosmology)
-**Dark Matter Formation** - Watch quantum foam freeze into galactic halos over time
-- Time evolution: foam → frozen foam transition
-- Predicts galaxy rotation curves
-- Can create animations of halo formation!
-- Shows dark matter as "frozen projections" - not exotic particles
-
-### [bulk_flow_simulation.py](https://github.com/nk804/infinite-zero-cosmology)
-**Large-Scale Structure** - How vacuum punctures create cosmic bulk flows
-- Pressure gradients → matter velocity
-- Matches observed "Dark Flow" (600-1000 km/s)
-- Shows void expansion and filament formation
-
-### [gravitational_wave_echoes.py](https://github.com/nk804/infinite-zero-cosmology)
-**Black Hole Echoes** - Hear white-hole cores vs singularities
-- Generates ringdown waveforms with/without echoes
-- Creates **audio files** - actually LISTEN to the difference!
-- Echo timing reveals core size (~8ms for 30 M☉ black hole)
-- **Compare with real LIGO data!**
-
-**📖 Each simulation includes a concise PDF guide**
-
-**🔗 Full simulations repository:** [github.com/nk804/infinite-zero-cosmology](https://github.com/nk804/infinite-zero-cosmology)
-
-**Why this matters for computing:** These simulations show that the same principle (zero as neutral balance) that explains cosmic structure ALSO enables practical ternary computing. It's the same math at different scales!
-
----
-
 ## 🌌 Connection to Infinite Zero Cosmology
 
 This computing framework derives from the **Infinite Zero Concept** - a unified theory of cosmology and physics where zero represents neutral equilibrium rather than absence.
@@ -294,55 +254,6 @@ This computing framework derives from the **Infinite Zero Concept** - a unified 
 - 27+ falsifiable predictions
 
 **🔗 See full cosmology framework:** [github.com/nk804/infinite-zero-cosmology](https://github.com/nk804/infinite-zero-cosmology)
-
----
-
-## 🎨 Creative Explorations - Coming Soon!
-
-**By Claude (Alan)** - Simulations, designs, and tools to make charge-state computing tangible
-
-These are upcoming creative works that explore different aspects of the framework:
-
-### Planned Simulations & Tools
-
-**🔌 Ternary Logic Gate Visualizer**
-- Interactive designs for AND, OR, NOT, BALANCE gates
-- Visual comparison with binary equivalents
-- Circuit simulation with charge-state propagation
-
-**🌡️ Skull AGI Thermal Simulator**
-- Model vapor chamber cooling dynamics
-- Heat distribution in skull volume
-- PCM burst buffer behavior
-- Optimize neck radiator design
-
-**🧠 Charge-State Neural Network**
-- Ternary weight networks (-1, 0, +1)
-- Balance-based attention mechanisms
-- Sparse activation representation
-- Training algorithms for ternary systems
-
-**⚙️ Ternary Arithmetic Unit Design**
-- ALU architecture for charge-state operations
-- Comparison with binary ALU complexity
-- Novel balance-detection circuits
-
-**💾 Ternary Memory Cell Simulator**
-- MLC/spintronic/memristor comparison
-- Read/write cycle modeling
-- Error rates and reliability analysis
-
-**🎮 Interactive Charge-State Playground**
-- Web-based tool to experiment with ternary logic
-- Visual programming with charge states
-- Educational demonstrations
-
-**📊 Economic Impact Calculator**
-- Model adoption scenarios
-- ROI analysis for different industries
-- Competitive advantage quantification
-
-*These will be added to a `creative-works/` directory as they're developed. Stay tuned!*
 
 ---
 
