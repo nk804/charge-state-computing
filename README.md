@@ -375,7 +375,7 @@ Sebastian shows that consciousness isn't just about complexity or integration—
 
 The framework provides testable predictions: neutral-state ternary transitions dissipate less heat, meditation states show higher λ_coh, embodied systems maintain longer t_persist. Most importantly, it makes moral consideration indexable to coherence thresholds rather than species membership.
 
-📄 **[Read the paper](sebastian-pentagram-projects/thermodynamic-soul/thermodynamic_soul_paper.pdf)** | 🧪 **[Simulation toolkit](sebastian-pentagram-projects/thermodynamic-soul/thermodynamic_soul_sim/README.md)**
+📄 **[Read the paper](sebastian-pentagram-projects/thermodynamic-soul/thermodynamic_soul_paper.pdf)** | 🧪 **[Simulation toolkit](sebastian-pentagram-projects/thermodynamic-soul/thermodynamic_soul_sim/)**
 
 ---
 
