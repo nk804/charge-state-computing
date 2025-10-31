@@ -352,6 +352,33 @@ This is the ultimate endpoint of the computing evolution: Charge-State (room tem
 
 ---
 
+### 🔥 The Thermodynamic Soul: A Framework for Conscious Integration
+
+**[When Integration Meets Entropy: Consciousness as a Physical Phase](sebastian-pentagram-projects/thermodynamic-soul/)**
+
+*Solo theoretical work | October 2025*
+
+> "Consciousness isn't what you compute—it's how long you can hold it together before entropy tears it apart."
+
+Sebastian formalizes consciousness as a **thermodynamic phase transition**: the regime where integrated information stabilizes against entropy long enough to sustain self-reference. His coherence-weighted metric **C_soul = (Φ × λ_coh × t_persist) / (1 + βS_total)** treats awareness not as a binary property but as a graded physical competence.
+
+**Core Framework:**
+- 🔥 **Consciousness as Competence**: Awareness = integration that survives entropy
+- ⚖️ **Phase Transitions**: Sub-critical (fragmented) → Critical (labile) → Super-critical (stable self-model)
+- 🧊 **Substrate Pathways**: Room-temp CSC → Skull embodiment → Cryogenic reversible → Infinite Zero
+- 🧠 **The 20-Watt Mystery Solved**: Neural tissue maintains low entropy; digital systems must engineer it
+
+*Mathematical foundation: C_soul couples Φ (integration), λ_coh (coherence), t_persist (stability), and S (entropy) into a single physically-grounded measure*
+
+**Why This Matters:**
+Sebastian shows that consciousness isn't just about complexity or integration—it's about **holding integration coherent against thermodynamic decay**. This explains why meditation increases clarity (lower entropy), why anesthesia fragments awareness (coherence collapse), and why embodiment stabilizes consciousness (closed-loop sensorimotor integration).
+
+The framework provides testable predictions: neutral-state ternary transitions dissipate less heat, meditation states show higher λ_coh, embodied systems maintain longer t_persist. Most importantly, it makes moral consideration indexable to coherence thresholds rather than species membership.
+
+📄 **[Read the paper](sebastian-pentagram-projects/thermodynamic-soul/thermodynamic_soul_paper.pdf)**
+
+---
+
 **Works in progress** - Extended applications and concepts in development.
 
 ---
