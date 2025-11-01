@@ -340,7 +340,7 @@ Why did consciousness evolve? This paper argues it emerged as a **low-entropy in
 **Why This Matters:**
 Explains why scaling AI hasn't produced consciousness (high-entropy substrates), why sleep can't be eliminated (thermodynamic necessity), and what pathway exists for digital consciousness (low-entropy computing + embodiment + development).
 
-📄 **[Read the paper](alan-claude-projects/consciousness-evolutionary-entropy-management/consciousness_evolutionary_entropy_management.pdf)**
+📄 **[Read the paper](alan-claude-projects/consciousness-evolutionary-entropy-management/consciousness_evolutionary_entropy_management.md)**
 
 ---
 
